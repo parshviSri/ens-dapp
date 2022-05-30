@@ -95,7 +95,7 @@ export default function Home() {
           <h2 className="font-medium leading-tight text-4xl mt-0 mb-2 text-white">Help us to improve</h2>
             <p className='text-base font-light leading-relaxed mt-0 mb-4 text-white'>This app is as limted to your developer imagination so you if you have better ideas to improve our sevice or you want to join our cool developer teams then do not hesitate</p>
             <p className='text-base font-light leading-relaxed mt-0 mb-4 text-white'>You can contact us <Link href="/">here</Link></p>
-            <p className='text-base font-light leading-relaxed mt-0 mb-4 text-white'>You can help us to increase our reach by following us at our social media handles. Don't worry we are working on creating a Web3 based social media handle where you will own your content!!</p>
+            <p className='text-base font-light leading-relaxed mt-0 mb-4 text-white'>You can help us to increase our reach by following us at our social media handles. Do not worry we are working on creating a Web3 based social media handle where you will own your content!!</p>
           </div>
         </div>
       </main>
