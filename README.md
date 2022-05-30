@@ -1,6 +1,7 @@
-# Basic Sample Hardhat Project
+# Basic Dapp to register your domain and create an id card
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project demonstrates a basic dapp use case. It comes with a  contract, a test for that contract, a  script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+It is developed in Next.js and with tailwind css.
 
 Try running some of the following tasks:
 
